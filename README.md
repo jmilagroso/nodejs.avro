@@ -1,5 +1,5 @@
 # nodejs.avro
-Using Avro specification in NodeJS
+Using [Avro](https://avro.apache.org/docs/1.8.1/spec.html) specification in [NodeJS](https://nodejs.org/en/)
 
 ```
 /* ----------------- Console output ----------------- */
